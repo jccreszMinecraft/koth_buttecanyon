@@ -1,4 +1,4 @@
 # koth_buttecanyon
 TF2 Map project
 
-http://jccreszminecraft.github.io/koth_buttecanyon/
+[jccreszminecraft.github.io/koth_buttecanyon](http://jccreszminecraft.github.io/koth_buttecanyon/)
